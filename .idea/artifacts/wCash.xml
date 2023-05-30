@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="wCash">
+    <output-path>$USER_HOME$/Servidor/plugins</output-path>
+    <root id="archive" name="wCash.jar">
+      <element id="module-output" name="wCash" />
+    </root>
+  </artifact>
+</component>

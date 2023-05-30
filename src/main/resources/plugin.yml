@@ -1,0 +1,9 @@
+name: wCash
+version: 1.0
+author: Bruno Wagner
+main: com.contattos.wcash.Main
+commands:
+  cash:
+  shopc:
+  cheque:
+  blocos:
