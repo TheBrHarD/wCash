@@ -30,6 +30,8 @@ public class EventShop implements Listener {
                 (10000000.0, "cash setar " + p.getName() + " 1000"));
         itemInfo.put("§2Boss Zombie", new ItemInfo
                 (1000000.0, "cash add " + p.getName() + " 1000"));
+        itemInfo.put("§ePicareta de Diamante", new ItemInfo
+                (1000000.0, "cash add " + p.getName() + " 1000"));
 
         if (e.getInventory().getTitle().equalsIgnoreCase("Loja de cash")) {
             e.setCancelled(true);
